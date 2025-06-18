@@ -1,0 +1,20 @@
+html,body {
+    height: 100%;
+    background-color: #343838;
+}
+
+.btn-primary {
+    background-color: #005F6B;
+    border: #005F6B 2px solid;
+}
+
+.btn-primary:hover {
+    background-color: white;
+    color: #005F6B;
+}
+
+.line {
+    background-color: white;
+    height: 1px;
+    width: 100%;
+}
